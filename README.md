@@ -14,4 +14,5 @@ Hi there 👋
 
 ## Meetups
 
+* Zoom for meetup
 * [Google Doc](https://docs.google.com/document/d/1SDxb_sSoS6_J5XJwJck0YcVQ0K_GAO5qzuxyltdWpk8/edit?usp=sharing) for weekly open quesitons 
