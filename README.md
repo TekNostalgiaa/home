@@ -10,8 +10,12 @@ Hi there 👋
 * [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
 * [Kubernetes sig-list](https://github.com/kubernetes/community/blob/master/sig-list.md)
+* [All Things Distributed@Werner Vogels](https://www.allthingsdistributed.com/)
 * [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
 * [Containers on AWS](https://aws.amazon.com/containers/)
+* [Serverless Architecture | Google Cloud](https://cloud.google.com/serverless/whitepaper)
+* [What is the Data Cloud | snowflake](https://www.snowflake.com/data-cloud/)
+* [Serverless Computing - The Complete Guide | Confluent](https://www.confluent.io/learn/serverless-computing/)
 
 ## Meetups
 
