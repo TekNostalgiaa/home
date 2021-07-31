@@ -19,4 +19,4 @@ Hi there 👋
 
 
 ## QR Code
-<img src="assets/qrcode.jpg" width="250" height="250">
+<img src="assets/qrcode.jpg" width="250" height="323.8">
