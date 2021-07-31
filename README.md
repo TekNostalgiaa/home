@@ -1,7 +1,7 @@
 # home
 Homepage
 
-<img src="assets/longcat.jpg" width="250" height="250">
+<img src="assets/longcat.jpg" width="288" height="180">
 
 > long ca-...cloud is looooooooooong
 
