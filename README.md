@@ -10,6 +10,7 @@ Hi there 👋
 * [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
 * [Kubernetes sig-list](https://github.com/kubernetes/community/blob/master/sig-list.md)
+* [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
 
 ## Meetups
 
