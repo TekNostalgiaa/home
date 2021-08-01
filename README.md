@@ -20,6 +20,10 @@ Hi there 👋
 * [Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
 * [CNCF containerd Project Journey Report](https://www.cncf.io/reports/cncf-containerd-project-journey/)
 
+## Workshops
+* [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
+* [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
+
 ## Meetups
 
 * Zoom for meetup
