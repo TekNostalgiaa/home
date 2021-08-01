@@ -7,7 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
-* Looking for more friends experienced or interested in Envoy, containerd, gdb etc. [08/01/2021]
+* Looking for more crew experienced or interested in Envoy, containerd, gdb etc.⚓️ [08/01/2021]
 
 
 ## Readings
