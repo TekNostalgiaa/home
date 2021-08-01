@@ -16,6 +16,7 @@ Hi there 👋
 * [Serverless Architecture | Google Cloud](https://cloud.google.com/serverless/whitepaper)
 * [What is the Data Cloud | snowflake](https://www.snowflake.com/data-cloud/)
 * [Serverless Computing - The Complete Guide | Confluent](https://www.confluent.io/learn/serverless-computing/)
+* [Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
 
 ## Meetups
 
