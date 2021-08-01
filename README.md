@@ -6,6 +6,10 @@ Hi there 👋
 > long ca-...cloud is looooooooooong
 
 
+## Annoucement
+* Looking for more friends experienced or interested in Envoy, containerd, gdb etc. [08/01/2021]
+
+
 ## Readings
 * [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
