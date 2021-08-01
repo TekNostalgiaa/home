@@ -17,6 +17,7 @@ Hi there 👋
 * [What is the Data Cloud | snowflake](https://www.snowflake.com/data-cloud/)
 * [Serverless Computing - The Complete Guide | Confluent](https://www.confluent.io/learn/serverless-computing/)
 * [Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
+* [CNCF containerd Project Journey Report](https://www.cncf.io/reports/cncf-containerd-project-journey/)
 
 ## Meetups
 
