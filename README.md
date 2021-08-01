@@ -13,6 +13,7 @@ Hi there 👋
 * [All Things Distributed@Werner Vogels](https://www.allthingsdistributed.com/)
 * [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
 * [Containers on AWS](https://aws.amazon.com/containers/)
+* [Serverless on AWS](https://aws.amazon.com/serverless/)
 * [Serverless Architecture | Google Cloud](https://cloud.google.com/serverless/whitepaper)
 * [What is the Data Cloud | snowflake](https://www.snowflake.com/data-cloud/)
 * [Serverless Computing - The Complete Guide | Confluent](https://www.confluent.io/learn/serverless-computing/)
