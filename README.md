@@ -26,6 +26,7 @@ Hi there 👋
 * [CNCF containerd Project Journey Report](https://www.cncf.io/reports/cncf-containerd-project-journey/)
 
 ## Workshops
+* [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
