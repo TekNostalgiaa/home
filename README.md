@@ -7,7 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
-* Looking for new crew experienced or interested in Envoy, containerd, gdb etc.⚓️ [08/01/2021]
+* Looking for new crew experienced or interested in Google Cloud Platform(GCP), Envoy, containerd, gdb etc.⚓️ [08/01/2021]
 
 
 ## Readings
@@ -40,4 +40,4 @@ Hi there 👋
 
 
 ## QR Code
-<img src="assets/qrcode.jpg" width="250" height="323.8">
+TBD
