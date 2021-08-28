@@ -1,5 +1,5 @@
 
-# Learn from LSE
+# Learn from LSE, Outage, Disruption
 
 ### 2021
 * 2021/8 msft azure: https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases
