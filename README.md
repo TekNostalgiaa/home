@@ -34,7 +34,7 @@ Hi there 👋
 ## Meetups
 
 * Zoom for meetup
-* Slack for group discussion
+* [Slack](https://cs-coffee-meetup.slack.com/) for group discussion
 * [Discord](https://discord.gg/DgahA7nJ) for group discussion
 * [Google Doc](https://docs.google.com/document/d/1SDxb_sSoS6_J5XJwJck0YcVQ0K_GAO5qzuxyltdWpk8/edit?usp=sharing) for weekly open quesitons 
 
