@@ -2,6 +2,7 @@
 # Learn from LSE, Outage, Disruption
 
 ### 2021
+* 2021/10 fb outage: https://engineering.fb.com/2021/10/04/networking-traffic/outage/
 * 2021/8 msft azure: https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases
 
 ### 2020
