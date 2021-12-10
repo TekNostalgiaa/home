@@ -1,5 +1,5 @@
 
-# Learn from LSE, Outage, Disruption
+# Learn from world-wide LSE, Outage, Disruption
 
 ### 2021
 * 2021/12 apache log4j rce: https://issues.apache.org/jira/projects/LOG4J2/issues/LOG4J2-3201?filter=allissues 
