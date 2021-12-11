@@ -15,6 +15,7 @@ Hi there 👋
 * [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)
 * [CNCF Serverless WG](https://github.com/cncf/wg-serverless)
 * [CNCF Technical Oversight Committee (TOC)](https://github.com/cncf/toc)
+* [Serverless Open-Source Frameworks: OpenFaaS, Knative, & more](https://www.cncf.io/blog/2020/04/13/serverless-open-source-frameworks-openfaas-knative-more/)
 * [Kubernetes sig-list](https://github.com/kubernetes/community/blob/master/sig-list.md)
 * [All Things Distributed@Werner Vogels](https://www.allthingsdistributed.com/)
 * [Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
@@ -31,6 +32,13 @@ Hi there 👋
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
+
+## Interesting Products
+* https://knative.dev/docs/
+* https://dapr.io/
+* https://karpenter.sh/ (2021)
+* https://azure.microsoft.com/en-us/services/container-apps/ (2021)
+
 
 ## Meetups
 
