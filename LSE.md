@@ -2,7 +2,11 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2021
-* 2021/12 apache log4j rce: https://issues.apache.org/jira/projects/LOG4J2/issues/LOG4J2-3201?filter=allissues 
+* 2021/12 apache log4j rce: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228
+  - https://logging.apache.org/log4j/2.x/security.html 
+  - https://issues.apache.org/jira/browse/LOG4J2-3201
+  - https://issues.apache.org/jira/browse/LOG4J2-3198
+  - https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce
   - https://aws.amazon.com/security/security-bulletins/AWS-2021-005/
 * 2021/12 amzn us-east-1: https://aws.amazon.com/message/12721/
 * 2021/10 fb outage: https://engineering.fb.com/2021/10/04/networking-traffic/outage/
