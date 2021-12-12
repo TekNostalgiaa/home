@@ -12,6 +12,7 @@
   - https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce
   - https://aws.amazon.com/security/security-bulletins/AWS-2021-005/
   - https://kb.vmware.com/s/article/87068?lang=en_US 
+  - https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476
   - https://www.cert.govt.nz/it-specialists/advisories/log4j-rce-0-day-actively-exploited/
 * 2021/12 amzn us-east-1: https://aws.amazon.com/message/12721/
 * 2021/10 fb outage: https://engineering.fb.com/2021/10/04/networking-traffic/outage/
