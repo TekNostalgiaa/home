@@ -2,7 +2,8 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2021
-* 2021/12 apache log4j rce: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228
+* 2021/12 apache log4j rce: https://www.cve.org/CVERecord?id=CVE-2021-44228 
+  - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228
   - https://help.aliyun.com/noticelist/articleid/1060971232.html
   - https://logging.apache.org/log4j/2.x/security.html 
   - https://lists.apache.org/thread/p9sfg0z7t2gbgj76jz8rh1w28z11yq0v
