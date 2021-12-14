@@ -38,7 +38,7 @@ Hi there 👋
 * https://dapr.io/
 * https://karpenter.sh/ (2021)
 * https://azure.microsoft.com/en-us/services/container-apps/ (2021)
-* https://www.heroku.com/
+* https://www.heroku.com/ (2007)
 * https://www.cockroachlabs.com/
 * https://www.yugabyte.com/
 
