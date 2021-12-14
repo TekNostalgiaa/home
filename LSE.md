@@ -8,6 +8,7 @@
   - https://www.lunasec.io/docs/blog/log4j-zero-day/ 
   - https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476
   - https://aws.amazon.com/security/security-bulletins/AWS-2021-005/
+  - https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/
   - https://kb.vmware.com/s/article/87068?lang=en_US 
   - https://www.cert.govt.nz/it-specialists/advisories/log4j-rce-0-day-actively-exploited/
 * 2021/12 amzn us-east-1: https://aws.amazon.com/message/12721/
