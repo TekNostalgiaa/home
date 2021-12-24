@@ -14,6 +14,7 @@
   - https://aws.amazon.com/security/security-bulletins/AWS-2021-006/
   - https://aws.amazon.com/security/security-bulletins/AWS-2021-005/
   - https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/
+  - https://www.sonatype.com/resources/log4j-vulnerability-resource-center
   - https://kb.vmware.com/s/article/87068?lang=en_US 
   - https://www.cert.govt.nz/it-specialists/advisories/log4j-rce-0-day-actively-exploited/
 * 2021/12 amzn us-east-1: https://aws.amazon.com/message/12721/
