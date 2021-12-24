@@ -27,6 +27,7 @@ Hi there 👋
 * [The traits of serverless architecture](https://www.thoughtworks.com/insights/blog/traits-serverless-architecture)
 * [Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
 * [CNCF containerd Project Journey Report](https://www.cncf.io/reports/cncf-containerd-project-journey/)
+* https://www.cncf.io/cncf-annual-report-2021/
 
 ## Workshops
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
