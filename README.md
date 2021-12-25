@@ -29,12 +29,10 @@ Hi there 👋
 * [CNCF containerd Project Journey Report](https://www.cncf.io/reports/cncf-containerd-project-journey/)
 * https://www.cncf.io/cncf-annual-report-2021/
 
-## Workshops
-* [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-* [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
-* [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
-
 ## Interesting Products
+* https://www.snowflake.com/
+* https://www.confluent.io/
+* https://databricks.com/
 * https://knative.dev/docs/
 * https://dapr.io/
 * https://karpenter.sh/ (2021)
@@ -43,6 +41,10 @@ Hi there 👋
 * https://www.cockroachlabs.com/
 * https://www.yugabyte.com/
 
+## Workshops
+* [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+* [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
+* [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
 ## Meetups
 
