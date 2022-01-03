@@ -1,6 +1,9 @@
 
 # Learn from world-wide LSE, Outage, Disruption
 
+### 2022
+* 2022/1 msft: https://techcommunity.microsoft.com/t5/exchange-team-blog/email-stuck-in-exchange-on-premises-transport-queues/ba-p/3049447
+
 ### 2021
 * 2021/12 apache log4j rce: https://www.cve.org/CVERecord?id=CVE-2021-44228 
   - https://help.aliyun.com/noticelist/articleid/1060971232.html
