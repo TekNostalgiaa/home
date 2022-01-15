@@ -30,6 +30,7 @@ Hi there 👋
 * https://www.cncf.io/cncf-annual-report-2021/
 
 ## Interesting Products
+* https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
 * https://www.snowflake.com/
 * https://www.confluent.io/
 * https://databricks.com/
