@@ -28,6 +28,8 @@ Hi there 👋
 * [Think gRPC, when you are architecting modern microservices!](https://www.cncf.io/blog/2021/07/19/think-grpc-when-you-are-architecting-modern-microservices/)
 * [CNCF containerd Project Journey Report](https://www.cncf.io/reports/cncf-containerd-project-journey/)
 * https://www.cncf.io/cncf-annual-report-2021/
+* [Kubernetes: The Documentary [PART 1] (2022)](https://www.youtube.com/watch?v=BE77h7dmoQU)
+* [Kubernetes: The Documentary [PART 2] (2022)](https://www.youtube.com/watch?v=318elIq37PE)
 
 ## Interesting Products
 * https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
