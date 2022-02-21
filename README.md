@@ -7,7 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
-* Looking for new crew experienced or interested in Google Cloud Platform(GCP), Envoy, containerd, gdb etc.⚓️ [08/01/2021]
+* Looking for new crew experienced or interested in Envoy, containerd, gdb etc.⚓️ [08/01/2021]
 
 
 ## Readings
