@@ -2,6 +2,7 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2022
+* 2022/2 opensea: https://twitter.com/opensea/status/1495509933835812864?s=20&t=4ofQK-KWCLWWSkO4baPaBQ
 * 2022/1 msft: https://techcommunity.microsoft.com/t5/exchange-team-blog/email-stuck-in-exchange-on-premises-transport-queues/ba-p/3049447
 
 ### 2021
