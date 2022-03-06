@@ -36,6 +36,7 @@ Hi there 👋
 * https://www.snowflake.com/
 * https://www.confluent.io/
 * https://databricks.com/
+* https://www.koyeb.com/
 * https://knative.dev/docs/
 * https://dapr.io/
 * https://karpenter.sh/ (2021)
