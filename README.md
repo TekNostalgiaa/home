@@ -7,6 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
+* Our team (App Runner & BeansTalk) is hiring! [03/14/2022]
 * Looking for new crew experienced or interested in Envoy, containerd, gdb etc.⚓️ [08/01/2021]
 
 
