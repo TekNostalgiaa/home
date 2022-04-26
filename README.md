@@ -8,8 +8,6 @@ Hi there 👋
 
 ## Annoucements
 * Our team (App Runner & BeansTalk) is hiring! [03/14/2022]
-* Looking for new crew experienced or interested in Envoy, containerd, gdb etc.⚓️ [08/01/2021]
-
 
 ## Readings
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
@@ -31,6 +29,7 @@ Hi there 👋
 * https://www.cncf.io/cncf-annual-report-2021/
 * [Kubernetes: The Documentary [PART 1] (2022)](https://www.youtube.com/watch?v=BE77h7dmoQU)
 * [Kubernetes: The Documentary [PART 2] (2022)](https://www.youtube.com/watch?v=318elIq37PE)
+* https://openusage.org/
 
 ## Interesting Products
 * https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
