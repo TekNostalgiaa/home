@@ -2,6 +2,9 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2022
+* 2022/5 heroku: 
+  - https://blog.heroku.com/we-heard-your-feedback
+  - https://status.heroku.com/incidents/2413
 * 2022/2 opensea: https://twitter.com/opensea/status/1495509933835812864?s=20&t=4ofQK-KWCLWWSkO4baPaBQ
 * 2022/1 msft: https://techcommunity.microsoft.com/t5/exchange-team-blog/email-stuck-in-exchange-on-premises-transport-queues/ba-p/3049447
 
@@ -38,6 +41,7 @@
 ### 2016
 
 ## References 
+* https://status.heroku.com/
 * https://github.com/danluu/post-mortems
 * https://aws.amazon.com/premiumsupport/technology/pes/ 
 * [AWS Outages](https://docs.google.com/spreadsheets/d/1Gcq_h760CgINKjuwj7WuRmLXHIdvsUdzNQCg0g4QvVs/edit#gid=0)
