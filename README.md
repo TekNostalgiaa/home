@@ -33,18 +33,25 @@ Hi there 👋
 * https://openusage.org/
 
 ## Interesting Products
+### Data
 * https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
 * https://www.snowflake.com/
 * https://www.confluent.io/
 * https://databricks.com/
+* https://www.cockroachlabs.com/
+* https://www.yugabyte.com/
+### Scaling
+* https://karpenter.sh/ (2021)
+### Run Containers 
+* https://porter.run/ (2022)
 * https://www.koyeb.com/
 * https://knative.dev/docs/
 * https://dapr.io/
-* https://karpenter.sh/ (2021)
 * https://azure.microsoft.com/en-us/services/container-apps/ (2021)
+* https://aws.amazon.com/apprunner/ (2021)
+* https://www.ibm.com/cloud/code-engine (2020)
+* https://cloud.google.com/run
 * https://www.heroku.com/ (2007)
-* https://www.cockroachlabs.com/
-* https://www.yugabyte.com/
 
 ## Workshops
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
