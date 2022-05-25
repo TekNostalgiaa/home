@@ -11,6 +11,7 @@ Hi there 👋
 
 ## Readings
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
+* [A Brief History of the Cloud](https://events.static.linuxfound.org/sites/events/files/slides/CNCF%20Keynote%20Preso.pdf)
 * [Cloud Native Glossary](https://glossary.cncf.io/)
 * [CNCF Serverless Whitepaper v1.0](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)
 * [CNCF Serverless WG](https://github.com/cncf/wg-serverless)
