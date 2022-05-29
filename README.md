@@ -59,6 +59,9 @@ Hi there 👋
 * [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
+## Other Blogs
+* [**Serverless** Land](https://serverlessland.com/)
+
 ## Meetups
 
 * Zoom for meetup: Upcoming
