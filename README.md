@@ -32,6 +32,7 @@ Hi there 👋
 * [Kubernetes: The Documentary [PART 1] (2022)](https://www.youtube.com/watch?v=BE77h7dmoQU)
 * [Kubernetes: The Documentary [PART 2] (2022)](https://www.youtube.com/watch?v=318elIq37PE)
 * https://openusage.org/
+* [AWS Open Source Blog | The Wheel](https://aws.amazon.com/blogs/opensource/the-wheel/)
 
 ## Interesting Products
 ### Data
