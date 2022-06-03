@@ -33,6 +33,7 @@ Hi there 👋
 * [Kubernetes: The Documentary [PART 2] (2022)](https://www.youtube.com/watch?v=318elIq37PE)
 * https://openusage.org/
 * [AWS Open Source Blog | The Wheel](https://aws.amazon.com/blogs/opensource/the-wheel/)
+* [9 Findings on the State of Serverless | Datadog](https://www.datadoghq.com/state-of-serverless/)
 
 ## Interesting Products
 ### Data
