@@ -57,6 +57,7 @@ Hi there 👋
 * https://www.heroku.com/ (2007)
 
 ## Workshops
+* [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
