@@ -2,6 +2,7 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2022
+* 2022/6 heroku: https://blog.heroku.com/april-2022-incident-review
 * 2022/5 heroku: 
   - https://blog.heroku.com/we-heard-your-feedback
   - https://status.heroku.com/incidents/2413
