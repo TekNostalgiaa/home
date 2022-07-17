@@ -63,6 +63,7 @@ Hi there 👋
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
 ## Other Blogs
+* [EKS News](https://eks.news/)
 * [**Serverless** Land](https://serverlessland.com/)
 
 ## Meetups
