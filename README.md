@@ -34,7 +34,7 @@ Hi there 👋
 * https://openusage.org/
 * [AWS Open Source Blog | The Wheel](https://aws.amazon.com/blogs/opensource/the-wheel/)
 * [9 Findings on the State of Serverless | Datadog](https://www.datadoghq.com/state-of-serverless/)
-* [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
+* [Timeline wiki](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
 
 ## Interesting Products
 ### Data
