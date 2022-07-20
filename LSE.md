@@ -2,6 +2,7 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2022
+* 2022/7 gcp: [Summary: Multiple Cloud products experiencing elevated error rates, latencies or service unavailability in europe-west2](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
 * 2022/6 cloudflare: https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/
 * 2022/6 heroku: https://blog.heroku.com/april-2022-incident-review
 * 2022/5 heroku: 
