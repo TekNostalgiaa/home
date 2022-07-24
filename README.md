@@ -7,7 +7,8 @@ Hi there 👋
 
 
 ## Annoucements
-* Our team (AWS App Runner) is hiring! [03/14/2022]
+* MSK is hiring [Learn more](https://msk-aws.splashthat.com/) [2022/7]
+* Our team (AWS App Runner) is hiring! [2022/3/14/]
 
 ## Readings
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
