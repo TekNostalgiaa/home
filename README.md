@@ -7,7 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
-* MSK is hiring [Learn more](https://msk-aws.splashthat.com/) [2022/7]
+* [MSK](https://msk-aws.splashthat.com/) is hiring [2022/7]
 * Our team (AWS App Runner) is hiring! [2022/3/14/]
 
 ## Readings
