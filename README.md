@@ -7,7 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
-* Our team (App Runner & BeansTalk) is hiring! [03/14/2022]
+* Our team (AWS App Runner) is hiring! [03/14/2022]
 
 ## Readings
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing, 9 Feb 2019](https://arxiv.org/abs/1902.03383)
@@ -35,6 +35,7 @@ Hi there 👋
 * [AWS Open Source Blog | The Wheel](https://aws.amazon.com/blogs/opensource/the-wheel/)
 * [9 Findings on the State of Serverless | Datadog](https://www.datadoghq.com/state-of-serverless/)
 * [Timeline wiki](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
+* [What is Cloud Computing?](https://youtu.be/mxT233EdY5c)
 
 ## Interesting Products
 ### Data
