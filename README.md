@@ -40,6 +40,10 @@ Hi there 👋
 * [What is Cloud Computing?](https://youtu.be/mxT233EdY5c)
 * [Big Misconceptions about Bare Metal, Virtual Machines, and Containers](https://youtu.be/Jz8Gs4UHTO8)
 
+## Interviews
+* [Principal Engineering at Amazon – Meet Paul, Amazon Elastic Compute Cloud](https://youtu.be/tTpfHvj7Lr4)
+* [Amazon Principal Engineer Speaker Series](https://youtube.com/playlist?list=PL9JNmYfQa0bgilL8p6xAnMFKbj8znSFx8)
+
 ## Interesting Products
 ### Compute
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
