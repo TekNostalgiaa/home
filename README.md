@@ -38,15 +38,11 @@ Hi there 👋
 * [9 Findings on the State of Serverless | Datadog](https://www.datadoghq.com/state-of-serverless/)
 * [Timeline wiki](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
 * [What is Cloud Computing?](https://youtu.be/mxT233EdY5c)
+* [Big Misconceptions about Bare Metal, Virtual Machines, and Containers](https://youtu.be/Jz8Gs4UHTO8)
 
 ## Interesting Products
-### Data
-* https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
-* https://www.snowflake.com/
-* https://www.confluent.io/
-* https://databricks.com/
-* https://www.cockroachlabs.com/
-* https://www.yugabyte.com/
+### Compute
+* [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 ### Scaling
 * https://karpenter.sh/ (2021)
 ### Run Containers 
@@ -59,6 +55,14 @@ Hi there 👋
 * https://www.ibm.com/cloud/code-engine (2020)
 * https://cloud.google.com/run
 * https://www.heroku.com/ (2007)
+### Data
+* https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
+* https://www.snowflake.com/
+* https://www.confluent.io/
+* https://databricks.com/
+* https://www.cockroachlabs.com/
+* https://www.yugabyte.com/
+* [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
 
 ## Workshops
 * [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
