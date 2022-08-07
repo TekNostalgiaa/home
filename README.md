@@ -43,6 +43,12 @@ Hi there 👋
 ## Interviews
 * [Principal Engineering at Amazon – Meet Paul, Amazon Elastic Compute Cloud](https://youtu.be/tTpfHvj7Lr4)
 * [Amazon Principal Engineer Speaker Series](https://youtube.com/playlist?list=PL9JNmYfQa0bgilL8p6xAnMFKbj8znSFx8)
+* [Meet an Engineer](https://www.youtube.com/watch?v=NpXpA1XU7ZY)
+* [Software Development at AWS - Meet Seth, Senior Principal Engineer | Amazon Web Services](https://youtu.be/pBitWuGbiCs)
+* [Meet-an-Engineer: Clare Liguori, Principal Engineer, AWS Containers](https://youtu.be/4LeO4m8LC88)
+* [Meet-an-Engineer | Becky Weiss, Senior Principal Engineer, AWS](https://youtu.be/Thcdt4EdaKI)
+* [Meet an Engineer | Tim Bray, Senior Principal Engineer, AWS](https://youtu.be/8ZcDx-aMfPA)
+
 
 ## Interesting Products
 ### Compute
