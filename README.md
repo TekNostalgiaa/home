@@ -39,6 +39,7 @@ Hi there 👋
 * [Timeline wiki](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
 * [What is Cloud Computing?](https://youtu.be/mxT233EdY5c)
 * [Big Misconceptions about Bare Metal, Virtual Machines, and Containers](https://youtu.be/Jz8Gs4UHTO8)
+* [The First Five Years](https://aws.amazon.com/blogs/aws/aws-blog-the-first-five-years/)
 
 ## Interviews
 * [Principal Engineering at Amazon – Meet Paul, Amazon Elastic Compute Cloud](https://youtu.be/tTpfHvj7Lr4)
