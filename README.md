@@ -79,7 +79,7 @@ Hi there 👋
 * [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
 ### Edge
 * [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
-### Networking
+### LB & RR
 * [How to choose the right load balancer for your workloads](https://youtu.be/p0YZBF03r5A)
 * [App Mesh](https://youtu.be/ahutmBvK7tA)
 
