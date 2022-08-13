@@ -79,6 +79,8 @@ Hi there 👋
 * [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
 ### Edge
 * [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
+### LB
+* [How to choose the right load balancer for your workloads](https://youtu.be/p0YZBF03r5A)
 
 ## Workshops
 * [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
