@@ -54,6 +54,7 @@ Hi there 👋
 
 ## Interesting Products
 ### Compute
+* [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://youtu.be/e8DVmwj3OEs)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
 ### Scaling
@@ -76,6 +77,8 @@ Hi there 👋
 * https://www.cockroachlabs.com/
 * https://www.yugabyte.com/
 * [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
+### Edge
+* [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
 
 ## Workshops
 * [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
