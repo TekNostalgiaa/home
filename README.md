@@ -55,6 +55,7 @@ Hi there 👋
 
 ## Interesting Products
 ### Compute
+* [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
 * [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://youtu.be/e8DVmwj3OEs)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
