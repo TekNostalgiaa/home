@@ -54,6 +54,7 @@ Hi there 👋
 * [Software Development at AWS - Meet Byron, Principal Software Engineer](https://youtu.be/LK9ieh8UYII)
 * [Monday Night Live with Peter DeSantis](https://youtu.be/GPUWATKe15E)
 * [Harvard i-lab | Fireside Chat with Michael Skok and Andy Jassy](https://youtu.be/d2dyGDqrXLo)
+* [UW CSE Distinguished Lecture: Andy Jassy](https://youtu.be/QVUqyOuNUB8)
 
 ## Interesting Products
 ### Compute
