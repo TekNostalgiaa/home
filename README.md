@@ -41,6 +41,7 @@ Hi there 👋
 * [Big Misconceptions about Bare Metal, Virtual Machines, and Containers](https://youtu.be/Jz8Gs4UHTO8)
 * [The First Five Years](https://aws.amazon.com/blogs/aws/aws-blog-the-first-five-years/)
 * [History of Silicon Innovation](https://youtu.be/zfjFHa5wY0E)
+* [How silicon innovation became the ‘secret sauce’](https://www.amazon.science/how-silicon-innovation-became-the-secret-sauce-behind-awss-success)
 
 ## Interviews
 * [Principal Engineering at Amazon – Meet Paul, Amazon Elastic Compute Cloud](https://youtu.be/tTpfHvj7Lr4)
