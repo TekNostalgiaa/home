@@ -53,6 +53,7 @@ Hi there 👋
 * [Meet an Engineer | Tim Bray, Senior Principal Engineer, AWS](https://youtu.be/8ZcDx-aMfPA)
 * [Software Development at AWS - Meet Byron, Principal Software Engineer](https://youtu.be/LK9ieh8UYII)
 * [Monday Night Live with Peter DeSantis](https://youtu.be/GPUWATKe15E)
+* [Harvard i-lab | Fireside Chat with Michael Skok and Andy Jassy](https://youtu.be/d2dyGDqrXLo)
 
 ## Interesting Products
 ### Compute
