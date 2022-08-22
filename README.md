@@ -56,6 +56,7 @@ Hi there 👋
 * [Monday Night Live with Peter DeSantis](https://youtu.be/GPUWATKe15E)
 * [Harvard i-lab | Fireside Chat with Michael Skok and Andy Jassy](https://youtu.be/d2dyGDqrXLo)
 * [UW CSE Distinguished Lecture: Andy Jassy](https://youtu.be/QVUqyOuNUB8)
+* [Nordhavn video: Interview with James and Jennifer Hamilton owners of N52 "Dirona"](https://youtu.be/B19LMGmBfCc)
 
 ## Interesting Products
 ### Compute
