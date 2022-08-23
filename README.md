@@ -7,7 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
-* [SCALING BEST PRACTICES WITH EKS](https://scalingbestpracticeswitheks0830.splashthat.com/)
+* [SCALING BEST PRACTICES WITH EKS](https://scalingbestpracticeswitheks0830.splashthat.com/) [2022/8/30]
 * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) schedule out [2022/8]
 * [MSK](https://msk-aws.splashthat.com/) is hiring [2022/7]
 * Our team (AWS App Runner) is hiring! [2022/3/14/]
