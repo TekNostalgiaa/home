@@ -7,6 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
+* [Elastic Containers Services Tech Talk](https://elasticcontainersservicestecht.splashthat.com/) [2022/8/30]
 * [SCALING BEST PRACTICES WITH EKS](https://scalingbestpracticeswitheks0830.splashthat.com/) [2022/8/30]
 * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) schedule out [2022/8]
 * [MSK](https://msk-aws.splashthat.com/) is hiring [2022/7]
