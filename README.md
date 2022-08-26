@@ -60,6 +60,7 @@ Hi there 👋
 * [Harvard i-lab | Fireside Chat with Michael Skok and Andy Jassy](https://youtu.be/d2dyGDqrXLo)
 * [UW CSE Distinguished Lecture: Andy Jassy](https://youtu.be/QVUqyOuNUB8)
 * [Nordhavn video: Interview with James and Jennifer Hamilton owners of N52 "Dirona"](https://youtu.be/B19LMGmBfCc)
+* [Masters of Scale | Rapid Response: Amazon’s plan to be big, green, and beloved, w/AWS CEO Adam Selipsky](https://podcasts.apple.com/us/podcast/id1227971746?i=1000577311785)
 
 ## Interesting Products
 ### Compute
