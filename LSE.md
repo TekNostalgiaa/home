@@ -2,6 +2,7 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2022
+* week of 2022/8/22 Fargate outage: https://www.reddit.com/r/aws/comments/www26u/anyone_else_impacted_by_the_ecs_outage_in_useast1/ 
 * 2022/7 msft teams
 * 2022/7 gcp: [Summary: Multiple Cloud products experiencing elevated error rates, latencies or service unavailability in europe-west2](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
 * 2022/7 [Review of the December 2021 Log4j Event](https://www.cisa.gov/sites/default/files/publications/CSRB-Report-on-Log4-July-11-2022_508.pdf)
