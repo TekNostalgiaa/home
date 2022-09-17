@@ -72,7 +72,7 @@ Hi there 👋
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
 ### Scaling
-* [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events)
+* [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
 * https://karpenter.sh/ (2021)
 ### Run Containers 
 * https://porter.run/ (2022)
