@@ -112,8 +112,7 @@ Hi there 👋
 
 * Zoom for meetup: Upcoming
 * [Clubhouse](https://www.clubhouse.com/club/cloudnativeserverless)
-* [Slack](https://cs-coffee-meetup.slack.com/)
-* [Discord](https://discord.gg/DgahA7nJ)
+* [Slack](https://cloud-native.slack.com/archives/C02HNMWEG0Z)
 * [Google Doc](https://docs.google.com/document/d/1SDxb_sSoS6_J5XJwJck0YcVQ0K_GAO5qzuxyltdWpk8/edit?usp=sharing) for weekly open quesitons 
 
 
