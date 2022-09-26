@@ -64,6 +64,7 @@ Hi there 👋
 * [Nordhavn video: Interview with James and Jennifer Hamilton owners of N52 "Dirona"](https://youtu.be/B19LMGmBfCc)
 * [Masters of Scale | Rapid Response: Amazon’s plan to be big, green, and beloved, w/AWS CEO Adam Selipsky](https://podcasts.apple.com/us/podcast/id1227971746?i=1000577311785)
 * [Amazon.com President and CEO Andy Jassy | Full Interview | Code 2022](https://youtu.be/I3Tc0T_adSU)
+* [Deepak Singh, AWS | AWS re:Invent 2020](https://youtu.be/DoWMOgvyW0A)
 
 ## Interesting Products
 ### Compute
