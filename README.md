@@ -7,13 +7,17 @@ Hi there 👋
 
 
 ## Annoucements
+* [ECS and AppRunner Networking Event](https://ecsandapprunnernetworkingevent.splashthat.com/) [2022/10] 
 * [AWS Streaming and Messaging Virtual Event](https://messagingandstreamingmasttecht.splashthat.com/) [2022/9/29]
+* [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes) [2022/9/26]
 * [SERVERLESS ARCHITECTURAL PATTERNS](https://serverlessarchitecturalpatterns0913.splashthat.com/)
 * [Community All-Hands - Docker](https://www.docker.com/events/community-all-hands/) [2022/9/1]
 * [Elastic Containers Services Tech Talk](https://elasticcontainersservicestecht.splashthat.com/) [2022/8/30]
 * [SCALING BEST PRACTICES WITH EKS](https://scalingbestpracticeswitheks0830.splashthat.com/) [2022/8/30]
 * [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) schedule out [2022/8]
 * [MSK](https://msk-aws.splashthat.com/) is hiring [2022/7]
+* [AWS Summit Stockholm 2022](https://aws.amazon.com/events/summits/stockholm/) [2022/5]
+* [DockerCon - ContainerDay](https://awscontainerdaydocker.splashthat.com/) schedule out [2022/5]
 * Our team (AWS App Runner) is hiring! [2022/3/14/]
 
 ## Readings
