@@ -69,7 +69,9 @@ Hi there 👋
 * [Masters of Scale | Rapid Response: Amazon’s plan to be big, green, and beloved, w/AWS CEO Adam Selipsky](https://podcasts.apple.com/us/podcast/id1227971746?i=1000577311785)
 * [Amazon.com President and CEO Andy Jassy | Full Interview | Code 2022](https://youtu.be/I3Tc0T_adSU)
 * [Boxing Chat with 𝗠𝗮𝗶-𝗟𝗮𝗻 𝗧𝗼𝗺𝘀𝗲𝗻 𝗕𝘂𝗸𝗼𝘃𝗲𝗰 (AWS VP, Storage (EBS, S3, Glacier)](https://youtu.be/6Dom5wvRlx0)
+* [AWS Builder Stories – Mai-Lan Tomsen Bukovec, VP & GM, Amazon S3, Amazon Web Services](https://youtu.be/QmbegbS0yHg)
 * [Deepak Singh, AWS | AWS re:Invent 2020](https://youtu.be/DoWMOgvyW0A)
+
 
 ## Interesting Products
 ### Compute
