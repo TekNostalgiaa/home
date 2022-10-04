@@ -113,9 +113,9 @@ Hi there 👋
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
 ## Other Channels
-* [Containers from the Couch](https://www.youtube.com/containersfromthecouch)
+* Containers from the Couch 📺 [Youtube](https://www.youtube.com/containersfromthecouch)
 * [EKS News](https://eks.news/)
-* [**Serverless** Land](https://serverlessland.com/)
+* [**Serverless** Land](https://serverlessland.com/) 📺 [Youtube](https://www.youtube.com/c/ServerlessLand/) 
 
 ## Meetups
 
