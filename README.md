@@ -74,15 +74,11 @@ Hi there 👋
 
 
 ## Interesting Products
-### Compute
+### Containers
 * [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
-* [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://youtu.be/e8DVmwj3OEs)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
-### Scaling
-* [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
-* https://karpenter.sh/ (2021)
-### Run Containers 
+#### Run Containers 
 * https://porter.run/ (2022)
 * https://www.koyeb.com/
 * https://knative.dev/docs/
@@ -92,6 +88,11 @@ Hi there 👋
 * https://www.ibm.com/cloud/code-engine (2020)
 * https://cloud.google.com/run
 * https://www.heroku.com/ (2007)
+#### Scaling
+* [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
+* https://karpenter.sh/ (2021)
+### Compute
+* [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://youtu.be/e8DVmwj3OEs)
 ### Data
 * https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
 * https://www.snowflake.com/
@@ -102,17 +103,17 @@ Hi there 👋
 * [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
 ### Edge
 * [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
-### LB & RR
+### Mesh
 * [How to choose the right load balancer for your workloads](https://youtu.be/p0YZBF03r5A)
 * [App Mesh](https://youtu.be/ahutmBvK7tA)
-
-## Workshops
+### Workshops
 * [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
-## Other Blogs
+## Other Channels
+* [Containers from the Couch](https://www.youtube.com/containersfromthecouch)
 * [EKS News](https://eks.news/)
 * [**Serverless** Land](https://serverlessland.com/)
 
