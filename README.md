@@ -7,6 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
+* [Top AWS Open Source Talks at KubeCon + CloudNativeCon 2022](https://aws.amazon.com/blogs/opensource/top-aws-open-source-talks-at-kubecon-cloudnativecon-2022/)
 * [AWS AT EDGE COMPUTING WORLD 2022](https://pages.awscloud.com/EdgeComputingWorld-2022)
 * [ECS and AppRunner Networking Event](https://ecsandapprunnernetworkingevent.splashthat.com/) [2022/10] 
 * [AWS Streaming and Messaging Virtual Event](https://messagingandstreamingmasttecht.splashthat.com/) [2022/9/29]
