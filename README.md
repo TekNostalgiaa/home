@@ -7,6 +7,7 @@ Hi there 👋
 
 
 ## Annoucements
+* [AWS AT EDGE COMPUTING WORLD 2022](https://pages.awscloud.com/EdgeComputingWorld-2022)
 * [ECS and AppRunner Networking Event](https://ecsandapprunnernetworkingevent.splashthat.com/) [2022/10] 
 * [AWS Streaming and Messaging Virtual Event](https://messagingandstreamingmasttecht.splashthat.com/) [2022/9/29]
 * [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes) [2022/9/26]
