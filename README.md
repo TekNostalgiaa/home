@@ -77,7 +77,8 @@ Hi there 👋
 
 
 ## Interesting Products
-### Containers
+### Containers & Serverless
+* [AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)](https://youtu.be/xmacMfbrG28)
 * [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
