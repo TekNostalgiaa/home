@@ -90,7 +90,7 @@ Hi there 👋
 * [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
-Run Containers 
+
 * https://porter.run/ (2022)
 * https://www.koyeb.com/
 * https://knative.dev/docs/
@@ -100,7 +100,7 @@ Run Containers
 * https://www.ibm.com/cloud/code-engine (2020)
 * https://cloud.google.com/run
 * https://www.heroku.com/ (2007)
-Scaling
+* [App Mesh](https://youtu.be/ahutmBvK7tA)
 * [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
 * https://karpenter.sh/ (2021)
 ### CMP
@@ -109,7 +109,6 @@ Scaling
 * [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
 ### NET
 * [How to choose the right load balancer for your workloads](https://youtu.be/p0YZBF03r5A)
-* [App Mesh](https://youtu.be/ahutmBvK7tA)
 ### Workshops
 * [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
 * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
