@@ -85,6 +85,8 @@ Hi there 👋
 * https://www.cockroachlabs.com/
 * https://www.yugabyte.com/
 * [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
+* [AWS re:Invent 2018 – Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec](https://youtu.be/nLyppihvhpQ)
+
 ### CON & SVS
 * [AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)](https://youtu.be/xmacMfbrG28)
 * [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
