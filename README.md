@@ -76,13 +76,21 @@ Hi there 👋
 * [Deepak Singh, AWS | AWS re:Invent 2020](https://youtu.be/DoWMOgvyW0A)
 
 
-## Interesting Products
-### Containers & Serverless
+## Technical Fields
+### STG & DAT
+* https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
+* https://www.snowflake.com/
+* https://www.confluent.io/
+* https://databricks.com/
+* https://www.cockroachlabs.com/
+* https://www.yugabyte.com/
+* [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
+### CON & SVS
 * [AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)](https://youtu.be/xmacMfbrG28)
 * [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
 * [What is Google Kubernetes Engine (GKE)?](https://youtu.be/Rl5M1CzgEH4)
-#### Run Containers 
+Run Containers 
 * https://porter.run/ (2022)
 * https://www.koyeb.com/
 * https://knative.dev/docs/
@@ -92,22 +100,14 @@ Hi there 👋
 * https://www.ibm.com/cloud/code-engine (2020)
 * https://cloud.google.com/run
 * https://www.heroku.com/ (2007)
-#### Scaling
+Scaling
 * [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
 * https://karpenter.sh/ (2021)
-### Compute
+### CMP
 * [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://youtu.be/e8DVmwj3OEs)
-### Data
-* https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
-* https://www.snowflake.com/
-* https://www.confluent.io/
-* https://databricks.com/
-* https://www.cockroachlabs.com/
-* https://www.yugabyte.com/
-* [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
-### Edge
+### HYB
 * [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
-### Mesh
+### NET
 * [How to choose the right load balancer for your workloads](https://youtu.be/p0YZBF03r5A)
 * [App Mesh](https://youtu.be/ahutmBvK7tA)
 ### Workshops
