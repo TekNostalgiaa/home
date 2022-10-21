@@ -2,6 +2,10 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2022
+* 2022/10 msft 
+  - https://socradar.io/sensitive-data-of-65000-entities-in-111-countries-leaked-due-to-a-single-misconfigured-data-bucket/
+  - https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/
+  - https://www.theregister.com/2022/10/20/microsoft_data_leak_socradar/
 * week of 2022/8/22 Fargate outage: https://www.reddit.com/r/aws/comments/www26u/anyone_else_impacted_by_the_ecs_outage_in_useast1/ 
 * 2022/7 msft teams
 * 2022/7 gcp: [Summary: Multiple Cloud products experiencing elevated error rates, latencies or service unavailability in europe-west2](https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2)
