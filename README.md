@@ -77,7 +77,7 @@ Hi there 👋
 * [Deepak Singh, AWS | AWS re:Invent 2020](https://youtu.be/DoWMOgvyW0A)
 * [A Conversation with Werner Vogels](https://youtu.be/adtuntQ8rh4)
 * [Qi Ke 1st generation immigrant Asian female’s journey to Microsoft Corporate Vice President](https://youtu.be/HRc8-x9FWaA)
-
+* [Deborah Liu | Take Back Your Power: 10 New Rules for Women at Work | Talks at Google](https://youtu.be/LnEAIiVm9eg)
 
 ## Technical Fields
 ### STG & DAT
