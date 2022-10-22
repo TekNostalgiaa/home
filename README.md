@@ -75,6 +75,7 @@ Hi there 👋
 * [AWS Builder Stories – Mai-Lan Tomsen Bukovec, VP & GM, Amazon S3, Amazon Web Services](https://youtu.be/QmbegbS0yHg)
 * [Deepak Singh, AWS | AWS re:Invent 2020](https://youtu.be/DoWMOgvyW0A)
 * [A Conversation with Werner Vogels](https://youtu.be/adtuntQ8rh4)
+* [Qi Ke 1st generation immigrant Asian female’s journey to Microsoft Corporate Vice President](https://youtu.be/HRc8-x9FWaA)
 
 
 ## Technical Fields
