@@ -55,6 +55,7 @@ Hi there 👋
 * [History of Silicon Innovation](https://youtu.be/zfjFHa5wY0E)
 * [15 Years of EC2 Innovation](https://youtu.be/fxnLn9V2pog)
 * [How silicon innovation became the ‘secret sauce’](https://www.amazon.science/how-silicon-innovation-became-the-secret-sauce-behind-awss-success)
+
 * [A Brief History of Kubernetes, Its Use Cases, and Its Problems](https://www.lastweekinaws.com/podcast/aws-morning-brief/a-brief-history-of-kubernetes-its-use-cases-and-its-problems/)
 
 ## Interviews
