@@ -78,6 +78,7 @@ Hi there 👋
 * [A Conversation with Werner Vogels](https://youtu.be/adtuntQ8rh4)
 * [Qi Ke 1st generation immigrant Asian female’s journey to Microsoft Corporate Vice President](https://youtu.be/HRc8-x9FWaA)
 * [Deborah Liu | Take Back Your Power: 10 New Rules for Women at Work | Talks at Google](https://youtu.be/LnEAIiVm9eg)
+* [Adam Selipsky: AWS is 'not done building' as cloud computing matures](https://www.protocol.com/enterprise/aws-adam-selipsky-cloud-reinvent)
 
 ## Technical Fields
 ### STG & DAT
