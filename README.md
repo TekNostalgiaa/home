@@ -79,6 +79,7 @@ Hi there 👋
 * [Qi Ke 1st generation immigrant Asian female’s journey to Microsoft Corporate Vice President](https://youtu.be/HRc8-x9FWaA)
 * [Deborah Liu | Take Back Your Power: 10 New Rules for Women at Work | Talks at Google](https://youtu.be/LnEAIiVm9eg)
 * [Adam Selipsky: AWS is 'not done building' as cloud computing matures](https://www.protocol.com/enterprise/aws-adam-selipsky-cloud-reinvent)
+* [In-Memory Caching: Curb Tail Latency with Pelikan](https://www.infoq.com/presentations/pelikan/)
 
 ## Technical Fields
 ### STG & DAT
