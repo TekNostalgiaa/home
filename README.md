@@ -7,6 +7,13 @@ Hi there 👋
 
 
 ## Annoucements
+* [Kubernetes Sessions at AWS re:Invent 2022](https://aws.amazon.com/blogs/containers/kubernetes-sessions-at-aws-reinvent-2022/) [2022/11]
+* [Know before you Go – serverless containers at AWS re:Invent 2022](https://aws.amazon.com/blogs/containers/know-before-you-go-serverless-containers-at-aws-reinvent-2022/) [2022/11]
+* [What’s in store with AWS Storage at re:Invent 2022](https://aws.amazon.com/blogs/storage/reinvent-2022/) [2022/11]
+* [Serverless and Application Integration sessions at AWS re:Invent 2022](https://aws.amazon.com/blogs/compute/serverless-and-application-integration-sessions-at-aws-reinvent-2022/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=d82cc95e9e) [2022/11]
+* [📢re:Invent SVS404-R1:A closer look at AWS Lambda](https://www.linkedin.com/posts/julianrwood_serverless-lambda-reinvent-activity-6998284223040077824-gCM7?utm_source=share&utm_medium=member_desktop) [2022/11]
+* [pre:Invent 2022! | Serverless Office Hours](https://www.linkedin.com/video/event/urn:li:ugcPost:6996839512370782210/) [2022/11]
+* [Happy 5th birthday AWS Fargate!!](https://www.linkedin.com/video/event/urn:li:ugcPost:6998315450849734656/) [2022/11]
 * [Serverless Summit 22](https://www.serverless-summit.io/)
 * [Top AWS Open Source Talks at KubeCon + CloudNativeCon 2022](https://aws.amazon.com/blogs/opensource/top-aws-open-source-talks-at-kubecon-cloudnativecon-2022/)
 * [AWS AT EDGE COMPUTING WORLD 2022](https://pages.awscloud.com/EdgeComputingWorld-2022)
