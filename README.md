@@ -100,6 +100,7 @@ Hi there 👋
 * [AWS re:Invent 2018 – Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec](https://youtu.be/nLyppihvhpQ)
 
 ### CON & SVS
+* [New – Accelerate Your Lambda Functions with Lambda SnapStart](https://aws.amazon.com/blogs/aws/new-accelerate-your-lambda-functions-with-lambda-snapstart/)
 * [AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)](https://youtu.be/xmacMfbrG28)
 * [Introducing Amazon EKS](https://youtu.be/3QFmcYwW5J8)
 * [How to run code on Google Cloud](https://youtu.be/jtPtSVSTb9Y)
