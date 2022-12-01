@@ -90,7 +90,7 @@ Hi there 👋
 * [AWS CEO Adam Selipsky on impact of slowing economy, cloud consumption](https://www.cnbc.com/video/2022/11/30/aws-ceo-adam-selipsky-on-impact-of-slowing-economy-cloud-consumption.html)
 
 ## Technical Fields
-### CON & SVS 
+### CON & SVS
 * https://db-engines.com/en/blog_post/93 (DBMS of the Year series)
 * https://www.snowflake.com/
 * https://www.confluent.io/
@@ -99,7 +99,6 @@ Hi there 👋
 * https://www.yugabyte.com/
 * [How to store data on Google Cloud](https://youtu.be/w2mL4sUOjVo)
 * [AWS re:Invent 2018 – Building for Durability in Amazon S3 and Glacier with Mai-Lan Tomsen Bukovec](https://youtu.be/nLyppihvhpQ)
-
 * [AWS re:Invent 2022 - Keynote with Adam Selipsky | Amazon Web Services](https://youtu.be/Xus8C2s5K9A)
 * [AWS re:Invent 2022 - Keynote with Peter DeSantis | AWS Events](https://youtu.be/R11YgBEZzqE)
 * [AWS re:Invent 2022 - Kubernetes virtually anywhere, for everyone (CON208-L)](https://youtu.be/OB7IZolZk78)
@@ -136,7 +135,7 @@ Hi there 👋
 * [Hands-on Workshops for Serverless Computing](https://aws.amazon.com/serverless-workshops/)
 * [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
-## Other Channels
+## Channels
 * Containers from the Couch 📺 [Youtube](https://www.youtube.com/containersfromthecouch)
 * [EKS News](https://eks.news/)
 * [**Serverless** Land](https://serverlessland.com/) 📺 [Youtube](https://www.youtube.com/c/ServerlessLand/) 
