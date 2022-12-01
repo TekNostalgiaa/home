@@ -7,6 +7,8 @@ Hi there 👋
 
 
 ## Annoucements
+* [Introducing new AWS Serverless digital learning badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/) [2022/11/29]
+* [Reducing Java cold starts on AWS Lambda functions with SnapStart](https://aws.amazon.com/blogs/compute/reducing-java-cold-starts-on-aws-lambda-functions-with-snapstart/) [2022/11/29]
 * [Starting up faster with AWS Lambda SnapStart](https://aws.amazon.com/blogs/compute/starting-up-faster-with-aws-lambda-snapstart/) [2022/11/29]
 * [New – Accelerate Your Lambda Functions with Lambda SnapStart](https://aws.amazon.com/blogs/aws/new-accelerate-your-lambda-functions-with-lambda-snapstart/) [2022/11/29]
 * [Happy 5th birthday, AWS Fargate!](https://aws.amazon.com/blogs/containers/happy-5th-birthday-aws-fargate/) [2022/11/29]
