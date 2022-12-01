@@ -96,6 +96,7 @@ Hi there 👋
 * [Deborah Liu | Take Back Your Power: 10 New Rules for Women at Work | Talks at Google](https://youtu.be/LnEAIiVm9eg)
 * [Adam Selipsky: AWS is 'not done building' as cloud computing matures](https://www.protocol.com/enterprise/aws-adam-selipsky-cloud-reinvent)
 * [In-Memory Caching: Curb Tail Latency with Pelikan](https://www.infoq.com/presentations/pelikan/)
+* [AWS CEO Adam Selipsky on impact of slowing economy, cloud consumption](https://www.cnbc.com/video/2022/11/30/aws-ceo-adam-selipsky-on-impact-of-slowing-economy-cloud-consumption.html)
 
 ## Technical Fields
 ### STG & DAT
