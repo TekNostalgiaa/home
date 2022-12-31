@@ -128,6 +128,7 @@ Hi there 👋
 * [AWS re:Invent 2018: Powering Next-Gen EC2 Instances: Deep Dive into the Nitro System (CMP303-R1)](https://youtu.be/e8DVmwj3OEs)
 * [What is an AWS Outpost Rack?](https://youtu.be/Q6OgRawyjIQ)
 * [How to choose the right load balancer for your workloads](https://youtu.be/p0YZBF03r5A)
+* [Top 10 AWS Architecture Blog posts of 2022](https://aws.amazon.com/blogs/architecture/top-10-aws-architecture-blog-posts-of-2022/)
 
 ### Workshops
 * [coursera | Containerized Applications on AWS](https://www.coursera.org/learn/containerized-applications-on-aws)
